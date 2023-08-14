@@ -4,7 +4,7 @@
 
 # Url - https://mockserver-64rp.onrender.com
 
-For Better Understanding Of All The Endpoints Of This Url You Can Refer To The Vedio Link Given Below:
+:For Better Understanding Of All The Endpoints Of This Url You Can Refer To The Vedio Link Given Below
         Vedio Link :   https://drive.google.com/file/d/1KtsyU35yP16fV8d00DqsCNTVV4Ewl_uM/view?usp=sharing
 
 It have following routes :
